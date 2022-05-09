@@ -20,7 +20,7 @@ Berlirlenmedi
 
 ## Ürün Açıklaması
 
-- Oyunumuz bir robotun kaçış hikayesini anlatan  coop destekli puzzle platform oyunudur. Gravity ve Rainbow  adlı iki silah bulunmaktadır. Gravity objeleri çeker ve atar. Rainbow Gun ise  objelerin rengini değiştirir.
+- Oyunumuz bir robotun kaçış hikayesini anlatan  coop destekli puzzle platform oyunudur. Gravity ve Rainbow  adlı iki silah modu bulunmaktadır. Gravity özelliği objeleri çeker ve atar. Rainbow özelliği ise  objelerin rengini değiştirir.
 
 ## Ürün Özellikleri
 
