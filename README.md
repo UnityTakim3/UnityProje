@@ -47,7 +47,7 @@ Berlirlenmedi
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi. Her bir backlog 25  puan üzerinden değerlendirildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi. Bu sprintte her bir backlog 25  puan üzerinden değerlendirildi.
 
 - **Backlog düzeni ve Story seçimleri**
     - Story'ler yapılacak  task'lere bölünmüştür. 
