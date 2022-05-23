@@ -94,6 +94,41 @@ https://github.com/UnityTakim3/UnityProje/blob/main/ProjectManagement/Sprint1Doc
 
 # Sprint 2
 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. İkinci sprintte  100 puan olarak  kararlaştırıldı. Bu sprinttede  her bir backlog 25 puan olarak tanımlandı.
+
+- **Backlog düzeni ve Story seçimleri**
+    - Story'ler yapılacak  task'lere bölünmüştür. 
+    - Miro Board'da gözüken kırmızı item'lar  Backend taskları gösterirken, mavi itemlar  Frontend taskleri temsil ediyor. Mor  itemlar story'leri temsil ediyor.
+
+- **Daily Scrum :** Daily Scrum toplantıları çoğunlukla Discord  üzerinden yapılmıştır. Ara ara Whatsapp'ta kullanılmıştır. Daily Scrum toplantısı örneği png olarak Readme'de tarafımızdan paylaşılmaktadır :
+  https://github.com/UnityTakim3/UnityProje/blob/main/ProjectManagement/Sprint2Document/DailyScrum_meet_1.png
+  https://github.com/UnityTakim3/UnityProje/blob/main/ProjectManagement/Sprint2Document/DailyScrum_meet_2.png
+  https://github.com/UnityTakim3/UnityProje/blob/main/ProjectManagement/Sprint2Document/DailyScrum_meet_3.png
+  https://github.com/UnityTakim3/UnityProje/blob/main/ProjectManagement/Sprint2Document/DailyScrum_meet_4.png
+
+- **Sprint board update**: Sprint board screenshotları: 
+   <img src="ProjectManagement/Sprint2Document/Backlog1.png" >
+   <img src="ProjectManagement/Sprint2Document/Backlog2.png" >
+   <img src="ProjectManagement/Sprint2Document/Backlog3.png" >
+
+- **Ürün Durumu**: Ekran görüntüleri:
+ <img src="ProjectManagement/Sprint2Document/Product_Sample_1.png" >
+  <img src="ProjectManagement/Sprint2Document/Product_Sample_2.png" >
+   <img src="ProjectManagement/Sprint2Document/Product_Sample_3.png" >
+    <img src="ProjectManagement/Sprint2Document/Product_Sample_4.png" >
+     <img src="ProjectManagement/Sprint2Document/Product_Sample_5.png" >
+      <img src="ProjectManagement/Sprint2Document/Product_Sample_6.png" >
+       <img src="ProjectManagement/Sprint2Document/Product_Sample_7.png" >
+
+- **Sprint Review:**
+
+  -Alınan kararlar: Online deneyimin geliştirilmesi  ve  puzzle ögelerine  daha  çok vakit ayırma.Silaha mermi özelliği iptal edildi. UI üzerinde geliştirmelerin yapılması.
+
+- **Sprint Retrospective:**
+  -  Proje kapsamında zaman yönetimi daha iyi yapılmalı.
+ 
 
 ---
 
