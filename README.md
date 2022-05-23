@@ -21,11 +21,12 @@ Berlirlenmedi
 
 ## Ürün Açıklaması
 
-- Oyunumuz bir robotun kaçış hikayesini anlatan  coop destekli puzzle platform oyunudur. Gravity ve Rainbow  adlı iki silah modu bulunmaktadır. Gravity özelliği objeleri çeker ve atar. Rainbow özelliği ise  objelerin rengini değiştirir.
+- Oyunumuz bir robotun kaçış hikayesini anlatan coop destekli puzzle platform oyunudur. Gravity ve Rainbow  adlı iki silah modu bulunmaktadır. Gravity özelliği objeleri çeker ve atar. Rainbow özelliği ise objelerin rengini değiştirir.
 
 ## Ürün Özellikleri
 
-- Puzzle - FPS
+- Puzzle 
+- FPS
 - Photon Network  kullanılarak  online özelliği
 - 3D 
 
@@ -35,7 +36,7 @@ Berlirlenmedi
 
 - Puzzle sevenler
 - FPS sevenler
-- Her yaştan oyunucular
+- Her yaştan oyuncular
 - Coop sevenler
 
 ## Product Backlog URL
@@ -48,11 +49,11 @@ Berlirlenmedi
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi. Bu sprintte her bir backlog 25  puan üzerinden değerlendirildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi. Bu sprintte her bir backlog 25 puan üzerinden değerlendirildi.
 
 - **Backlog düzeni ve Story seçimleri**
-    - Story'ler yapılacak  task'lere bölünmüştür. 
-    - Miro Board'da gözüken kırmızı item'lar  Backend taskları gösterirken, mavi itemlar  Frontend taskleri temsil ediyor. Mor  itemlar story'leri temsil ediyor.
+    - Story'ler yapılacak task'lere bölünmüştür. 
+    - Miro Board'da gözüken kırmızı item'lar Backend taskları gösterirken, mavi itemlar Frontend taskleri temsil ediyor. Mor itemlar story'leri temsil ediyor.
     
 - **Daily Scrum :** Daily Scrum toplantıları çoğunlukla Discord  üzerinden yapılmıştır. Ara ara Whatsapp'ta kullanılmıştır. Daily Scrum toplantısı örneği png olarak Readme'de tarafımızdan paylaşılmaktadır : https://github.com/UnityTakim3/UnityProje/blob/main/ProjectManagement/Sprint1Document/DailyScrum_meet_1.png
 https://github.com/UnityTakim3/UnityProje/blob/main/ProjectManagement/Sprint1Document/DailyScrum_meet_2.png
@@ -77,13 +78,13 @@ https://github.com/UnityTakim3/UnityProje/blob/main/ProjectManagement/Sprint1Doc
 
 - **Sprint Review:**
 
-  -Alınan kararlar:  Oyunun bulmaca kısmına odaklanmak için düşman eklemekten şimdilik vazgeçtik/erteledik .Ekstra konulması gereken özellikler ve görevler belirlenmiştir. Yapılan son testlerde  oyunda  bir sorun tespit edilmemiştir.
+  -Alınan kararlar: Oyunun bulmaca kısmına odaklanmak için düşman eklemekten şimdilik vazgeçtik/erteledik. Ekstra konulması gereken özellikler ve görevler belirlenmiştir. Yapılan son testlerde oyunda bir sorun tespit edilmemiştir.
                      
   
 
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
-  - Takım içi  iletişimin daha fazla arttırılmalı.
+  - Takım içi iletişimin daha fazla arttırılmalı.
   - Testler için ayrılan efor/saat arttırılmalı .
 
 
@@ -124,7 +125,7 @@ https://github.com/UnityTakim3/UnityProje/blob/main/ProjectManagement/Sprint1Doc
 
 - **Sprint Review:**
 
-  -Alınan kararlar: Online deneyimin geliştirilmesi  ve  puzzle ögelerine  daha  çok vakit ayırma.Silaha mermi özelliği iptal edildi. UI üzerinde geliştirmelerin yapılması.
+  -Alınan kararlar: Online deneyimin geliştirilmesi ve puzzle ögelerine daha çok vakit ayırma. Silaha mermi özelliği iptal edildi. UI üzerinde geliştirmelerin yapılması.
 
 - **Sprint Retrospective:**
   -  Proje kapsamında zaman yönetimi daha iyi yapılmalı.
