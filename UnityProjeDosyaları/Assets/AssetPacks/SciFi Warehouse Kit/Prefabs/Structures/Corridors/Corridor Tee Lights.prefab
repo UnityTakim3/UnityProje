@@ -306,7 +306,7 @@ GameObject:
   - component: {fileID: 3354483237135130618}
   - component: {fileID: 3354483237134032186}
   - component: {fileID: 5048732298778299014}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Tunnel Piipes002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -498,7 +498,7 @@ GameObject:
   - component: {fileID: 3354483237135130616}
   - component: {fileID: 3354483237134032184}
   - component: {fileID: 9196762586767805642}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Tunnel Walls002
   m_TagString: Untagged
   m_Icon: {fileID: 0}

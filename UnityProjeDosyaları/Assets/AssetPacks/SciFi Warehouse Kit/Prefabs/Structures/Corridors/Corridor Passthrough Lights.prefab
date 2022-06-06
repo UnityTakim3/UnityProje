@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2553481404177903938}
   - component: {fileID: 1104722251196838752}
   - component: {fileID: 7565617509996622608}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Tunnel Walls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
