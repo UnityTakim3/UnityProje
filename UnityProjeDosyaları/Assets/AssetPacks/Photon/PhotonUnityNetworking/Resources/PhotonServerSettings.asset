@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: 61d58bd3-4439-474a-85ac-2a1077ffe576
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: 
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - FixedUpdate
+  - Bring
+  - CanThrow
+  - Release
+  - Throw
+  - ThrowTarget
+  - Fall
+  - StartPatrol
+  - Chase
+  - Deneme
+  - Fix
+  - Hold
+  - OnHanded
+  - SecondFix
+  - UpdateServer
+  - ChangeColor
+  - ColorDown
+  - ColorGunColorChange
+  - ColorUp
+  - FixSettings
+  - LineRpc
+  - TakeColor
+  - ChangeGun
+  - ChangeScript
+  - ChangeGunScripts
+  - SetGunColor
+  - FixColorSettings
+  - deneme
+  - setTheRoomPlayers
+  - OnHand
+  - Hit
+  - TriggerTheDoor
+  - ChangeColorRpc
+  - ShootColorBall
+  - PlaySong
+  - PlaySound
+  - CloseRigidView
+  - Attack
+  - moveTo
+  - MoveTo
+  - GetDamage
+  - SetRotation
+  - SetVelocity
+  - Open
+  - Close
+  - CloseDoor
+  - OpenDoor
+  - ChangePunSync
+  - ChangeColors
+  - ChooseRandomPlatform
+  - ClearAllPlatformsColors
+  - ClearChoosenPlatformsColors
+  - ClearLists
+  - Lose
+  - PaintAllPlatformsRed
+  - PaintAllPlatformsGreen
+  - PaintAllPlatformsYellow
+  - PaintChoosenPlatformsGreen
+  - PaintChoosenPlatformsRed
+  - PaintChoosenPlatformsYellow
+  - PaintChoosenPlatforms
+  - SetLastTarget
+  - SetTargetNull
+  - ChangeObjectPivot
+  - SoundChanged
+  - soundPlayed
+  - SoundPlayed
+  - PlayShootSound
+  - Die
+  - SetLevelAndTransforms
+  - FinishTheGame
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1

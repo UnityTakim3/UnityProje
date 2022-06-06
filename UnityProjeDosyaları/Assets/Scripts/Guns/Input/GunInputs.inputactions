@@ -1,0 +1,150 @@
+{
+    "name": "GunInputs",
+    "maps": [
+        {
+            "name": "Shoot",
+            "id": "213bd10c-2380-492f-bd20-e4e8cc728c17",
+            "actions": [
+                {
+                    "name": "RightClick",
+                    "type": "Button",
+                    "id": "9e598b7c-9393-48de-a835-625869185662",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "LeftClick",
+                    "type": "Button",
+                    "id": "32c1f959-e12a-4c9d-b177-215e8a99fc0e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c4a17e02-26b7-4641-99ab-2605af901619",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RightClick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6fc57915-300a-4e25-8461-ff8c1d1c8bbf",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LeftClick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "ChangeSettings",
+            "id": "2a22da0d-535c-4bfe-b7db-b9a992c4d5c9",
+            "actions": [
+                {
+                    "name": "MouseScroll",
+                    "type": "PassThrough",
+                    "id": "e7c86b2f-7f0f-48a2-b92a-976a1a02f225",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "KeyboardE",
+                    "type": "Button",
+                    "id": "b44336cb-3d5d-4249-91d9-293e6640b697",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "KeyboardQ",
+                    "type": "Button",
+                    "id": "0a71864e-bf7e-4406-9028-5c5db8f4b371",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "bfc527a9-7736-4720-bf1b-b49d03599fac",
+                    "path": "<Mouse>/scroll/y",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MouseScroll",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "13b169b0-2f40-4f2c-be29-376badd93a38",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "KeyboardE",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "89b06322-8bc2-405f-9c61-5eb25878726f",
+                    "path": "<Keyboard>/q",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "KeyboardQ",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "ChangeGun",
+            "id": "6d1aaf6a-9808-46b9-95af-990bdf83e747",
+            "actions": [
+                {
+                    "name": "ChangeGun",
+                    "type": "Button",
+                    "id": "f8d71b1f-f6f7-4505-b248-9c15bb6b48c5",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "4ce33f2e-efcc-4312-8c0c-cb8b8f37a226",
+                    "path": "<Keyboard>/r",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ChangeGun",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
